@@ -1,0 +1,14 @@
+target/
+IJ_Prefs.txt
+*.lyx~
+*.lyx#
+*.iml
+.idea
+nb-configuration.xml
+nbactions.xml
+build/
+dist/
+nbproject/
+build.properties
+c:/
+dependency-reduced-pom.xml
